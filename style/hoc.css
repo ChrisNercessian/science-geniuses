@@ -1,0 +1,32 @@
+
+header{
+     background-image: url(./images/1745.png);
+    height: 75vw;
+    animation: hoq 3s;
+    background-repeat: no-repeat;
+    background-size: contain;
+    max-height: 85vh; 
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1{
+    text-align: center;
+}
+nav{
+    position: sticky;
+    top: 0px;
+}
+@keyframes hoq{
+    0%{
+        background-image: url(./images/1645.png);
+    }
+    50%{
+        background-image: url(./images/1645.png);
+    }
+    100%{
+        background-image: url(./images/1745.png);
+    }
+}

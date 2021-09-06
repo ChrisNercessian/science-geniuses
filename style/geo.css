@@ -1,0 +1,14 @@
+header{
+    background-image: url(./images/worldmap.png); 
+    height: 372px;
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-color: #f7f7f7; 
+    background-position: center; 
+}
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+}
+
